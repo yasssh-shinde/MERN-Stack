@@ -37,8 +37,8 @@ MERN-Stack-Learning/
 
 ### 1️⃣ Clone the Repository  
 ```sh
- git clone https://github.com/yasssh-shinde/MERN-Stack-Learning.git
- cd MERN-Stack-Learning
+ git clone https://github.com/yasssh-shinde/MERN-Stack.git
+ cd MERN-Stack
 ```
 
 ### 2️⃣ Install Dependencies (For Node/React Projects)  
